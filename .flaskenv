@@ -1,0 +1,2 @@
+FLASK_APP=chatobot.py
+FLASK_ENV=development
