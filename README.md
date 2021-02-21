@@ -9,7 +9,7 @@
 </p>
 
 <p>
-    Rodar app -> python chatboy.py or flask run
+    Rodar app -> python chatbot.py or flask run
 </p>
 
 <p>
